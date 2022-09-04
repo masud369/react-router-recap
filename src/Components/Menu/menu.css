@@ -1,0 +1,10 @@
+.menu-holder{
+    display: flex;
+    background-color: azure;
+}
+.menu-holder li{
+    list-style-type: none;
+    color:aqua;
+    padding: 50px 100px;
+
+}
